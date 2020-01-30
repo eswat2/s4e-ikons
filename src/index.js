@@ -1,1 +1,7 @@
-export { default as default } from './Component.svelte';
+export { default as acura } from "./acura.svelte"
+export { default as alfa_romeo_alt } from "./alfa-romeo-alt.svelte"
+export { default as alfa_romeo } from "./alfa-romeo.svelte"
+export { default as am_general } from "./am-general.svelte"
+export { default as aston_martin_alt } from "./aston-martin-alt.svelte"
+export { default as aston_martin } from "./aston-martin.svelte"
+export { default as audi } from "./audi.svelte"

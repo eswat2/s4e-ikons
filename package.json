@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
-    "prepublishOnly": "npm run build",
+    "prepublishOnly": "yarn build",
     "deploy": "yarn publish",
     "open": "open https://www.npmjs.com/package/s4e-ikons"
   },
